@@ -28,7 +28,7 @@
     },
     {
       "name": "k4.pid-fail-2",
-      "expectfail": true,
+      "expect-fail": true,
       "key": "02707172737475767778797a7b7c7d7e7f808182838485868788898a8b8c8d8e8f909192939495969798999a9b9c9d9e9f",
       "paserk": null,
       "comment": "Implementations MUST NOT accept a PASERK of the wrong version."
