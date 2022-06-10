@@ -158,6 +158,16 @@
       "payload": null,
       "footer": "arbitrary-string-that-isn't-json",
       "implicit-assertion": "{\"test-vector\":\"3-F-3\"}"
+    },
+    {
+      "name": "3-F-4",
+      "expect-fail": true,
+      "key": "707172737475767778797a7b7c7d7e7f808182838485868788898a8b8c8d8e8f",
+      "nonce": "0000000000000000000000000000000000000000000000000000000000000000",
+      "token": "v3.local.AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbfcIURX_0pVZVU1mAESUzrKZAsRm2EsD6yBoZYn6cpVZNzSJOhSDN-sRaWjfLU-yn9OJH1J_B8GKtOQ9gSQlb8yk9Iza7teRdkiR89ZFyvPPsVjjFiepFUVcMa-LP18zV77f_crJrVXWa5PDNRkCSeHfBBeh",
+      "payload": null,
+      "footer": "",
+      "implicit-assertion": ""
     }
   ]
 }
